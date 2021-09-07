@@ -48,7 +48,7 @@ int main(void){
     printf("\n El modulo es : %d",modulo);
 
     //Potencia
-
+    //
     float base = 2,potencia,resultado;
 
     printf("\nEscriba una potencia de 2: \n");
