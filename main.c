@@ -22,7 +22,7 @@ int main(void) {
     printf("grande %ld\n", grande);
     printf("decimalgg %LF\n", decimalGG);
 
-
+    //
     // Imprima todos los tipos de datos faltantes
 
     return 0;
